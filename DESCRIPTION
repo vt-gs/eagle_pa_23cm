@@ -1,1 +1,3 @@
-VTGS Github Repo
+<b>VTGS Github Repo Project</b>
+<p>
+23cm (1265/1296 MHz) Power Amplifier control boards.  This particular design is based on a two stage amplifier design.  The 'driver' board control a small PA mounted in the shaxk (1W output) and the 'final' board controls the large final stage amplifier mounted on the tower.  The two boards communicate with RS-422/485 and the 'driver' board will present a single amplifier interface over ethernet. 
